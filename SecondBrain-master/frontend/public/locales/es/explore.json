@@ -1,0 +1,14 @@
+{
+    "chunkNumber": "No. de partes: {{quantity}}",
+    "deleteConfirmText": "¿Realmente quieres eliminar?",
+    "deleteConfirmTitle": "Confirmar",
+    "deleted": "{{fileName}} borrado del cerebro {{brain}}",
+    "empty": "¡Oh No!, Tu Cerebro está vacío",
+    "errorDeleting": "Error borrando {{fileName}}",
+    "noBrain": "Id de Cerebro no encontrado",
+    "notAvailable": "No disponible",
+    "sessionNotFound": "Sesión no encontrada",
+    "subtitle": "Ver o borrar datos guardados usados por tu cerebro",
+    "title": "Explora datos subidos",
+    "view": "Ver"
+}
